@@ -1,0 +1,4 @@
+#Sat Dec 29 22:25:42 CST 2018
+base.0=F\:\\yinyuebofangqi\\AudioPlayer-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
